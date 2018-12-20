@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>St Vrain Archery Club</title>
-    <link>https://paulprogrammer.github.io/</link>
+    <link>https://paulprogrammer.github.io/news-events/</link>
     <description>Recent content on St Vrain Archery Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Mar 2017 14:15:59 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 16:53:37 -0500</lastBuildDate>
     
-	<atom:link href="https://paulprogrammer.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paulprogrammer.github.io/news-events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,29 +19,6 @@
       <guid>https://paulprogrammer.github.io/news-events/article01/</guid>
       <description>The St Vrain range has sustained more wind damage than usual. There are several stacks of bales down and some 3D targets have had antlers blown away.
 At the sight in range the bales are down at the 100 yard and 80 yard positions. There is also some damage at the 20 yard position. The gray cover on the big round target at 80 yards was shredded and was removed. The target face is still shootable (for now).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://paulprogrammer.github.io/contact-us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://paulprogrammer.github.io/contact-us/</guid>
-      <description>Officers President Stets Newcomb (H) 303-775-3589 stets.newcomb@mesanetworks.net
-Vice President Kevin Lamar 303-717-1442 klamar83@aol.com
-Secretary Wes Lowrie wdlowrie@juno.com (W) 303-651-8814 (H) 303-772-3524
-Treasurer Leora Najera 303-506-3702 alwbusinessventures@hotmail.com</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://paulprogrammer.github.io/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://paulprogrammer.github.io/work/</guid>
-      <description>Work needed to be done (May, 2016) Some tasks have volunteers, some tasks may be combined, so contact Stets or Matt to volunteer and schedule:
-Stets Newcomb Phone: 303-775-3589 Email: stets.newcomb@mesanetworks.net
-Kevin Lamar Phone: 303-717-1442 Email: klamar83@aol.com Ongoing as needed  Mow lanes with deck mower (ATV or large riding mower or small tractor required) – several volunteers on list Mow around targets, bow hangars and shooting positions where deck cannot reach (club’s push mower)  One-time projects Repair and paint retired 3D targets for use in broadhead positions</description>
     </item>
     
     <item>

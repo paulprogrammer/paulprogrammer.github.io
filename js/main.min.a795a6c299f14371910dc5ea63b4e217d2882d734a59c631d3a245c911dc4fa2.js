@@ -1,3 +1,0 @@
-(function(){var debounce;debounceScroll=function(){clearTimeout(debounce);debounce=setTimeout(doCountersIfInView,50);};var doCountersIfInView=function(){window.onscroll=function(){};var counters=document.querySelectorAll(".count-to");if(!isInViewport(counters[0])){window.onscroll=debounceScroll;return;}
-for(var counter of counters){var endVal=counter.innerText;(new CountUp(counter,0,endVal)).start();}}
-window.onscroll=debounceScroll;new window.LuminousGallery(document.querySelectorAll(".the-range li a"));})();
