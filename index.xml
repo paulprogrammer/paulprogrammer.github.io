@@ -10,16 +10,5 @@
 	<atom:link href="https://paulprogrammer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://paulprogrammer.github.io/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://paulprogrammer.github.io/work/</guid>
-      <description>Work needed to be done (May, 2016) Some tasks have volunteers, some tasks may be combined, so contact Stets or Matt to volunteer and schedule:
-Stets Newcomb Phone: 303-775-3589 Email: stets.newcomb@mesanetworks.net
-Kevin Lamar Phone: 303-717-1442 Email: klamar83@aol.com Ongoing as needed  Mow lanes with deck mower (ATV or large riding mower or small tractor required) – several volunteers on list Mow around targets, bow hangars and shooting positions where deck cannot reach (club’s push mower)  One-time projects Repair and paint retired 3D targets for use in broadhead positions</description>
-    </item>
-    
   </channel>
 </rss>
