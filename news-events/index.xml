@@ -11,17 +11,5 @@
 	<atom:link href="https://paulprogrammer.github.io/news-events/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Eagle Restrictions are now in Effect</title>
-      <link>https://paulprogrammer.github.io/news-events/article02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://paulprogrammer.github.io/news-events/article02/</guid>
-      <description>You should not be at the range or anywhere on the property except from 9:00 am to 3:00 pm.
-The Colorado Parks and Wildlife restricts this area because it is a bald eagle roosting and nesting area.
-There are no member exceptions to this restriction for any reason. Presence at the range outside these hours technically is consider trespassing.
-These restrictions remain in effect until lifted next spring.</description>
-    </item>
-    
   </channel>
 </rss>
