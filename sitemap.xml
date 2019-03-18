@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://paulprogrammer.github.io/news-events/new-saint-vrain-archery-and-bowhunter-s-club-website/</loc>
+    <lastmod>2019-03-18T18:54:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://paulprogrammer.github.io/membership/</loc>
     <lastmod>2018-11-21T12:19:43-07:00</lastmod>
   </url>
@@ -24,6 +29,7 @@
   
   <url>
     <loc>https://paulprogrammer.github.io/</loc>
+    <lastmod>2019-03-18T18:54:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
